@@ -4,72 +4,97 @@
 - 서비스 개요 : 악성민원 클린 ai봇
 
 ## 팀원
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/moontaesik">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> 조장, Back-end </b></sub>
-                    <br/><sub><b> 문태식 </b></sub><br/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mjlee76">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> Back-end </b></sub>
-                    <br/><sub><b> 이민준 </b></sub><br/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/hongsj8215">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> Front-end </b></sub>
-                    <br/><sub><b> 홍석진진 </b></sub><br/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/atildayear">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> 데이터분석, Back-end </b></sub>
-                    <br/><sub><b> 박연아아 </b></sub><br/>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" style="border: none;">
-                <a href="https://github.com/mjlee76">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> Front-end </b></sub>
-                    <br/><sub><b> 홍석진진 </b></sub><br/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mjlee76">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> Front-end </b></sub>
-                    <br/><sub><b> 홍석진진 </b></sub><br/>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mjlee76">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
-                    <br/><sub><b> Front-end </b></sub>
-                    <br/><sub><b> 홍석진진 </b></sub><br/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/mjlee76"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/><br /><sub><b> 이민준 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/mjlee76"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/><br /><sub><b> 문태식 </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/mjlee76"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/><br /><sub><b> 문태식 </b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
+<style>
+.team-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.github-btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.github-btn:hover {
+    background-color: #333;
+}
+
+.role {
+    color: #99c2ff;
+    font-size: 14px;
+}
+
+.name {
+    color: #0099ff;
+    font-size: 16px;
+    font-weight: bold;
+}
+</style>
+<div class="team-container">
+    <div class="team-member">
+        <a href="https://github.com/moontaesik">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> 조장, Back-end </p>
+            <p class="name"> 문태식 </p>
+        </a>
+    </div>
+    <div class="team-member">
+        <a href="https://github.com/mjlee76">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> Back-end </p>
+            <p class="name"> 이민준 </p>
+        </a>
+    </div>
+    <div class="team-member">
+        <a href="https://github.com/atildayear">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> 데이터분석, Back-end </p>
+            <p class="name"> 박연아 </p>
+        </a>
+    </div>
+    <div class="team-member">
+        <a href="https://github.com/hongsj8215">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> Front-end </p>
+            <p class="name"> 홍석진 </p>
+        </a>
+    </div>
+    <div class="team-member">
+        <a href="https://github.com/Praise-park">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> 데이터분석, Front-end </p>
+            <p class="name"> 박찬영 </p>
+        </a>
+    </div>
+    <div class="team-member">
+        <a href="https://github.com/b1005g">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> AI </p>
+            <p class="name"> 고봉균 </p>
+        </a>
+    </div>
+    <div class="team-member">
+        <a href="https://github.com/woo320">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+            <p class="role"> AI </p>
+            <p class="name"> 김우현 </p>
+        </a>
+    </div>
+</div>
 
 # 서비스 소개
 
