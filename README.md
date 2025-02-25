@@ -10,53 +10,53 @@
             <td align="center">
                 <a href="https://github.com/moontaesik">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> 조장, Back-end </b></sub>
                     <br/><sub><b> 문태식 </b></sub><br/>
-                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/mjlee76">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> Back-end </b></sub>
                     <br/><sub><b> 이민준 </b></sub><br/>
-                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/atildayear">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> 데이터분석, Back-end </b></sub>
                     <br/><sub><b> 박연아 </b></sub><br/>
-                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/hongsj8215">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> Front-end </b></sub>
                     <br/><sub><b> 홍석진 </b></sub><br/>
-                </a>
             </td>
         </tr>
         <tr>
             <td align="center" style="border: none;">
                 <a href="https://github.com/Praise-park">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> 데이터분석, Front-end </b></sub>
                     <br/><sub><b> 박찬영영 </b></sub><br/>
-                </a>
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/b1005g">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> AI </b></sub>
                     <br/><sub><b> 고봉균 </b></sub><br/>
-                </a>
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/woo320">
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
+                </a>
                     <br/><sub><b> AI </b></sub>
                     <br/><sub><b> 김우현 </b></sub><br/>
-                </a>
             </td>
         </tr>
     </tbody>
